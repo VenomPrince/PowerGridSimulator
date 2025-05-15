@@ -1,0 +1,3 @@
+/home/zhongli/Micro/PowerGridSimulator/build/CMakeFiles/PowerGridSimulator.dir
+/home/zhongli/Micro/PowerGridSimulator/build/CMakeFiles/edit_cache.dir
+/home/zhongli/Micro/PowerGridSimulator/build/CMakeFiles/rebuild_cache.dir
